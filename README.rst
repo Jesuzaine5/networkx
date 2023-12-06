@@ -41,7 +41,7 @@ Find the shortest path between two nodes in an undirected graph:
     ['A', 'B', 'D']
 
 Install
--------
+---------
 
 Install the latest version of NetworkX::
 
